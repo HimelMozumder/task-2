@@ -1,0 +1,111 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.header{
+    background-color: grey;
+    overflow: hidden;
+    padding: 20px 0px;
+    text-align: center;
+    overflow: hidden;
+    
+}
+.logo{
+border: 2px solid black;
+width: 30%;
+float: left;
+
+
+}
+.top_header{
+border: 2px solid black;
+width: 68%;
+float:right;
+overflow: hidden;
+
+    
+  
+}
+.midheader{
+    background-color: blueviolet;
+    padding:20px 0px;
+    text-align:center;
+    margin-top: 10px;
+    
+}
+.main{
+    text-align: center;
+    margin-top:1%;
+    background-color: brown;
+    height: 400px;
+}
+.div1{
+    width: 24%;
+    height:400px;
+    border: 2px solid black;
+    float: left;
+    box-sizing: border-box;
+    background-color: brown;
+    margin-right:2px;
+ 
+}
+.div2{
+    width:45%;
+    height:400px;
+    border: 2px solid black;
+    float: left;
+    box-sizing: border-box;
+    background-color: brown;
+    margin-right:3px; 
+  
+}
+.div4{
+    width:99.5%;
+    height: 100px;
+    border: 2px solid black;
+}
+.div5{
+    width:99.5%;
+    height: 190px;
+    border: 2px solid black;
+}
+.div6{
+    width:49.2%;
+    height: 190px;
+    border: 2px solid black;
+    float: left;
+}
+.div7{
+    width:49.5%;
+    height: 190px;
+    border: 2px solid black;
+    float: left;
+}
+.div3{
+    width: 30.5%;
+    height:400px;
+    border: 2px solid black;
+    float: left;
+    box-sizing: border-box;
+    background-color: brown;
+ 
+    
+}
+.div8{
+    width: 99.5%;
+    height:98px;
+    border: 2px solid black;
+    float: left;
+    box-sizing: border-box;
+    background-color: brown;
+    margin-right:2px;
+}
+footer{
+    background-color:orchid;
+    overflow: hidden;
+    padding: 40px 0px;
+    text-align: center;
+    overflow: hidden;
+    margin-top: 1.5%;
+    
+}
